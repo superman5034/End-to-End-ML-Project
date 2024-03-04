@@ -1,5 +1,5 @@
-from src.mlProject.logging import logger
+from mlProject import logger
 
-logger.info('This is out custom log!')
+logger.info('This is our custom log!')
 
 
